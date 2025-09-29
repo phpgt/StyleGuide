@@ -35,6 +35,7 @@ A list of all commit categories:
 + `test` - add or adjust tests
 + `docs` - documentation only
 + `refactor` - reduce code without changing behaviour
++ `content` - only applies text/asset changes
 
 This type of commit message is referred to as [conventional commits][conventional-commits].
 
