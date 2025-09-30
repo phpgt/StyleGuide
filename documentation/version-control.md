@@ -36,6 +36,7 @@ A list of all commit categories:
 + `docs` - documentation only
 + `refactor` - reduce code without changing behaviour
 + `content` - only applies text/asset changes
++ `db` - for database changes only, such as migrations
 
 This type of commit message is referred to as [conventional commits][conventional-commits].
 
