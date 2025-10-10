@@ -213,3 +213,9 @@ Please see a simplified bulleted list below. Click the headings for more informa
 + Don't use full stops to end fragmented sentences
 + Choose either full sentences or fragments in lists (not both)
 + Commit messages should be written to a specified shape, to categorise and convey intent
+
+# Proudly sponsored by
+
+[JetBrains Open Source sponsorship program](https://www.jetbrains.com/community/opensource/)
+
+[![JetBrains logo.](https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg)](https://www.jetbrains.com/community/opensource/)
